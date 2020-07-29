@@ -6,4 +6,4 @@
   Goals:
   - Perform Continuous Integration using Jenkins
   - Perform Continous Deployment using docker
-  -Try and automate it using an ansible playbook
+  - Try and automate it using an ansible playbook
