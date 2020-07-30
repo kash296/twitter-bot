@@ -7,3 +7,5 @@
   - Perform Continuous Integration using Jenkins
   - Perform Continous Deployment using docker
   - Try and automate it using an ansible playbook
+
+Check out the account here - https://twitter.com/kash296twitbot
