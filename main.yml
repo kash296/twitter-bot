@@ -7,12 +7,12 @@
     - name: Build Docker image from Dockerfile
       docker_image:
         name: twitter_bot
-        path: /home/kash296/Programs/Python Programs/kash296twitbot
+        path: /var/lib/jenkins/workspace/TwitterBot Phase 1/
         state: present
     
     - name: Remove Docker container after tweet
       docker_image:
         name: twitter_bot
-        path: /home/kash296/Programs/Python Programs/kash296twitbot
+        path: /var/lib/jenkins/workspace/TwitterBot Phase 1/
         state: absent    
 
